@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm James 👋
 
-<!--
-**jamesharrison2005/jamesharrison2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year university student | 📊 Junior Data Analyst  
+💡 Interested in data analysis, open-source, and turning data into insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+- 🎓 Final-year student studying Computer Science at the University of Lancashire
+- 📈 Junior Data Analyst with experience in data cleaning, analysis, and visualisation
+- 🌱 Currently learning: SQL optimisation, machine learning algorithms for data prediction
+- 🤝 Looking to contribute to open-source projects related to data, analytics, and Python
+
+---
+
+## 🛠️ Skills & Tools
+**Languages**
+- Python
+- SQL
+
+**Libraries & Frameworks**
+- pandas
+- NumPy
+- matplotlib / seaborn
+- scikit-learn (basic)
+
+**Tools**
+- Git & GitHub
+- Google Colab
+- Excel / Google Sheets
+- Tableau
+
+---
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+⭐️ Feel free to explore my repositories and connect!
