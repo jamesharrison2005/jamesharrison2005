@@ -30,8 +30,4 @@
 - Excel / Google Sheets
 - Tableau
 
----
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
 ⭐️ Feel free to explore my repositories and connect!
