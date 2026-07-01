@@ -1,6 +1,6 @@
 # Hi, I'm James 👋
 
-🎓 Computer Science Graduate | Currently working as a Graduate Research Intern at the University of Lancashire
+🎓 Computer Science Graduate | Currently working as a Graduate Research Intern at the University of Lancashire  
 💡 Interested in data analysis, open-source and software development.
 
 ---
