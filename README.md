@@ -1,12 +1,11 @@
 # Hi, I'm James 👋
 
-🎓 Final-year university student | 📊 Junior Data Analyst  
-💡 Interested in data analysis, open-source, and turning data into insights
+🎓 Computer Science Graduate | Currently working as a Graduate Research Intern at the University of Lancashire
+💡 Interested in data analysis, open-source and software development.
 
 ---
 
 ## 🔍 About Me
-- 🎓 Final-year student studying Computer Science at the University of Lancashire
 - 📈 Junior Data Analyst with experience in data cleaning, analysis, and visualisation
 - 🌱 Currently learning: SQL optimisation, machine learning algorithms for data prediction
 - 🤝 Looking to contribute to open-source projects related to data, analytics, and Python
